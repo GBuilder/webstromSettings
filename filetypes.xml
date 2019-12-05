@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="c++" type="C++" />
       <mapping ext="tpl" type="HTML" />
       <mapping ext="swan" type="HTML" />
       <mapping ext="san" type="HTML" />
