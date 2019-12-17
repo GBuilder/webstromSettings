@@ -2,13 +2,14 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="c++" type="C++" />
-      <mapping ext="tpl" type="HTML" />
-      <mapping ext="swan" type="HTML" />
       <mapping ext="san" type="HTML" />
+      <mapping ext="swan" type="HTML" />
+      <mapping ext="atom" type="HTML" />
+      <mapping ext="tpl" type="PHP" />
       <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping pattern="cmd" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="gyp" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
