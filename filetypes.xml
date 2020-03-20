@@ -2,17 +2,18 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="c++" type="C++" />
-      <mapping ext="atom" type="HTML" />
       <mapping ext="swan" type="HTML" />
+      <mapping ext="atom" type="HTML" />
       <mapping ext="san" type="HTML" />
       <mapping ext="tpl" type="PHP" />
       <mapping pattern="mock" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping pattern="cmd" type="PLAIN_TEXT" />
+      <mapping pattern="README.md" type="PLAIN_TEXT" />
       <mapping ext="m3u8" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="gyp" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
