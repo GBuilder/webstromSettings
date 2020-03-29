@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="c++" type="C++" />
+      <mapping ext="sjs" type="ECMAScript 6" />
       <mapping ext="swan" type="HTML" />
       <mapping ext="atom" type="HTML" />
       <mapping ext="san" type="HTML" />
